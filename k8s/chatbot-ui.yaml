@@ -10,7 +10,7 @@ metadata:
   name: chatbot-ui
 type: Opaque
 data:
-  OPENAI_API_KEY: 6c02acaf4bmshb9828897cbdbf3fp1a6444jsnacf026f62f24
+  OPENAI_API_KEY: NmMwMmFjYWY0Ym1zaGI5ODI4ODk3Y2JkYmYzZnAxYTY0NDRqc25hY2YwMjZmNjJmMjQK
 ---
 apiVersion: apps/v1
 kind: Deployment
